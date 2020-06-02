@@ -1,4 +1,4 @@
-### Ecoleta
+# Ecoleta
 
 # Marketplace de coleta de residuos
 
