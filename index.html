@@ -4,8 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>♻️ECOLETA</title>
+
     <link rel="stylesheet" href="/styles/main.css">
     <link rel="stylesheet" href="styles/home.css">
+    <link rel="stylesheet" href="/styles/modal.css">
+
     <link rel="stylesheet" href="/styles/responsive.css">
 </head>
 <body>
@@ -27,9 +30,26 @@
         </div>
     </div>
 
-
-
+    <div id="modal">
+        <div class="content">
+            <div class="header">
+                <h1>Pontos de coleta</h1>
+                <a href="">Fechar</a>
+            </div>
+            <form action="">
+                <label for="seach">
+                     Cidade
+                </label>
+                <div class="search field">
+                    <input type="text" name="search" 
+                    placeholder="Pesquise a cidade">
+                    <button>
+                        <img src="/assets/search.svg" alt="Buscar">
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
 
 </body>
-
 </html>
