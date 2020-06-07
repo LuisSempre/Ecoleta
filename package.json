@@ -1,0 +1,27 @@
+{
+  "name": "Ecoleta",
+  "version": "1.0.0",
+  "description": "![](https://github.com/pushline/Next-Level-Week/blob/master/assets/icones/logo.svg)",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisSempre/Ecoleta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisSempre/Ecoleta/issues"
+  },
+  "homepage": "https://github.com/LuisSempre/Ecoleta#readme"
+}

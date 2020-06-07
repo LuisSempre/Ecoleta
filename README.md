@@ -10,6 +10,17 @@
 - [Cidades IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)
 - [Estados IBGE](https://servicodados.ibge.gov.br/api/v1/localidades/estados)
 
+#### Usando express
+ - npm install express
+
+#### Usando nodemon
+
+- npm install nodemon
+
+#### Usando nunjucks
+
+- npm install nunjucks
+
 ### Bibliotecas usadas:
 - HTML5
 - CSS3
