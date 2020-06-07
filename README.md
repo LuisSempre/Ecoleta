@@ -21,6 +21,10 @@
 
 - npm install nunjucks
 
+#### Usando Sqlite3
+
+- npm install sqllite3
+
 ### Bibliotecas usadas:
 - HTML5
 - CSS3
